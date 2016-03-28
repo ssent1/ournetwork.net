@@ -6,8 +6,8 @@
 @media screen and (max-width:991px){
 	.feature-1,.feature-2{margin-bottom:50px;}
 	.device{display:none;}
-	.screenshots ul li{width:50%;}
-	.screenshots-intro{padding:110px 0 100px 0;}
+	.inspiration ul li{width:50%;}
+	.inspiration-intro{padding:110px 0 100px 0;}
 	.feature-content{width:80%;}
 	.features-slider{height:100%}
 }
@@ -23,7 +23,7 @@
 }
 @media screen and (max-width:465px){
 	.hero h1{font-size:40px;margin:100px 0 45px 0}
-	.screenshots ul li{width:100%;min-height:100%;float:none;}
+	.inspiration ul li{width:100%;min-height:100%;float:none;}
 	section.video i{font-size:30px;}
 	section.video h1{font-size:15px;font-weight:400;}
 	section.video{padding:40px;}
